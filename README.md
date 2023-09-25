@@ -1,1 +1,1 @@
-https://afsalsalu.github.io/Afsal-Portfolio/
+ https://afsalsalu.github.io/first/
